@@ -1,5 +1,9 @@
 # My Streamlit Apps
 
+## Example
+
+![](images/pytorch_linear_regression.gif)
+
 ## Getting Started
 
 ```sh
