@@ -11,8 +11,6 @@ import streamlit as st
 
 st.title("StatQuest - Pytorch Introduction")
 
-st.video('https://www.youtube.com/watch?v=FHdlXe1bSe4')
-
 import torch
 from models.pytorch import Model
 
